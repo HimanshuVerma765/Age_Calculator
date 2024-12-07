@@ -1,26 +1,25 @@
-Age Calculator  
+# 🕒 Age Calculator  
 
 A simple web application that calculates your age based on your date of birth. Built with HTML, CSS, and JavaScript.
 
 ---
 
-🚀 Tech Stack  
+## 🚀 Tech Stack  
 
-- ![HTML Logo](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white) **HTML**  
-- ![CSS Logo](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white) **CSS**  
-- ![JavaScript Logo](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) **JavaScript**  
-
----
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML logo" width="20" height="20"/> **HTML**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS logo" width="20" height="20"/> **CSS**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript logo" width="20" height="20"/> **JavaScript**  
 
 ---
 
-📸 Screenshot  
+## 📖 How to Use  
 
-![image](https://github.com/user-attachments/assets/44354af3-f0a4-46ef-bbfe-589498602bcf)
-
+1. Open the application in your browser.  
+2. Enter your date of birth in the input field.  
+3. Click the "Calculate" button to see your age in years, months, and days.
 
 ---
 
-## 📜 License  
+## 📸 Screenshot  
 
-This project is open source and available under the MIT License.
+![Age Calculator](./image.png)
