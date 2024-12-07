@@ -12,14 +12,15 @@ A simple web application that calculates your age based on your date of birth. B
 
 ---
 
-## 📖 How to Use  
 
-1. Open the application in your browser.  
-2. Enter your date of birth in the input field.  
-3. Click the "Calculate" button to see your age in years, months, and days.
-
----
 
 ## 📸 Screenshot  
 
-![Age Calculator](./image.png)
+![image](https://github.com/user-attachments/assets/ace1a394-e7f9-44b7-bc17-51a8481afcd3)
+
+
+---
+
+## 📜 License  
+
+This project is open source and available under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
