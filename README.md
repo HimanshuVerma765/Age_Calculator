@@ -16,7 +16,7 @@ A simple web application that calculates your age based on your date of birth. B
 
 ## 📸 Screenshot  
 
-[image](https://github.com/user-attachments/assets/ace1a394-e7f9-44b7-bc17-51a8481afcd3)
+![image](https://github.com/user-attachments/assets/ace1a394-e7f9-44b7-bc17-51a8481afcd3)
 
 
 ---
